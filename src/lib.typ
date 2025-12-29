@@ -1,4 +1,5 @@
 #import "theorem_proof_cnf.typ": *
+#set math.equation(numbering: "(1)")
 
 // all theorem related elements
 #let (
