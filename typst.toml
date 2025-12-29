@@ -1,11 +1,11 @@
 [package]
 name = "fine-lncs"
-version = "0.3.0"
+version = "0.1.0"
 entrypoint = "src/lib.typ"
-authors = ["jozott"]
+authors = ["rainei"]
 license = "MIT"
-description = "An Springer's Lecture Notes in Computer Science (LNCS) styled template."
-repository = "https://github.com/Jozott00/typst-fine-lncs"
+description = "A modified version of Jozott's Springer Lecture Notes in Computer Science (LNCS) Typst template."
+repository = "https://github.com/ra1nei/typst-fine-lncs"
 keywords = [
     "LLNCS",
     "LNCS",

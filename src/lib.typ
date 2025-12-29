@@ -55,7 +55,7 @@
   }
 
   //// PAR CONFIG
-  set par(leading: 0.50em, spacing: 0.4em)
+  set par(leading: 0.50em, spacing: 0.7em)
 
   //// PAGE CONFIG
   set page(paper: "us-letter")
@@ -233,7 +233,7 @@
   // Main body.
 
   //// PAR CONFIG MAIN
-  set par(justify: true, first-line-indent: PAR_INDENT)
+  set par(justify: true, first-line-indent: PAR_INDENT, spacing: 0.7em)
 
   // show theorem rules
   show: __thm-rules
