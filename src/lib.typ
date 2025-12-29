@@ -233,7 +233,7 @@
   // Main body.
 
   //// PAR CONFIG MAIN
-  set par(justify: true, first-line-indent: PAR_INDENT, spacing: 0.7em)
+  set par(justify: true, first-line-indent: PAR_INDENT, spacing: 1em)
 
   // show theorem rules
   show: __thm-rules
